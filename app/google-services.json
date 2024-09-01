@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "904249757096",
+    "project_id": "fir-auth32",
+    "storage_bucket": "fir-auth32.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:904249757096:android:48d326e65c98f7cfc8219d",
+        "android_client_info": {
+          "package_name": "com.tharunbalaji.firebaseauth32"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBpokVQwS--3_P7cTjTOOXxYjmKtgCFg54"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
